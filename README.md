@@ -1,4 +1,3 @@
 # Education
 # projects
-# Education
-# Education
+
